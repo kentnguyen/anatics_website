@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://anatics.io</loc>
+	<lastmod>2021-06-08</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/Logo_Anatics_FA_PNG.png</image:loc>
+	<image:title>Logo_Anatics_FA_PNG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/Logo_Anatics_FA_PNG.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/alt%20route-24px.png</image:loc>
+	<image:title>alt%2520route%2024px</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/avel-chuklanov-DUmFLtMeAbQ-unsplash.jpg</image:loc>
+	<image:title>avel%20chuklanov-DUmFLtMeAbQ-unsplash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/halgatewood-com-weRQAu9TA-A-unsplash.jpg</image:loc>
+	<image:title>halgatewood%20com-weRQAu9TA-A-unsplash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/chris-montgomery-smgTvepind4-unsplash.jpg</image:loc>
+	<image:title>chris%20montgomery-smgTvepind4-unsplash</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>https://anatics.io/vid/videoblocks-plexus-digital-numbers_hpclc6_ow__b81a90f33a892dfc54043521a60332a6__P1080.mp4</video:content_loc>
+	<video:title>videoblocks-plexus-digital-numbers_hpclc6_ow__b81a90f33a892dfc54043521a60332a6__P1080</video:title>
+	</video:video>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://anatics.io/anatics-process-and-methodology/</loc>
+	<lastmod>2021-06-08</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/CleanShot%202021-06-08%20at%2016.28.23.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252016.28.23</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/Logo_Anatics_FA_PNG.png</image:loc>
+	<image:title>Logo_Anatics_FA_PNG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/CleanShot%202021-06-08%20at%2016.58.16.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252016.58.16</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://anatics.io/about-anatics-and-team/</loc>
+	<lastmod>2021-06-08</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/estee-janssens-HAzwnsI9oEQ-unsplash.jpg</image:loc>
+	<image:title>Technical%20services</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/isaac-smith-AT77Q0Njnt0-unsplash.jpg</image:loc>
+	<image:title>isaac%20smith-AT77Q0Njnt0-unsplash</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/IMG_20210321_074203-02.jpeg</image:loc>
+	<image:title>IMG_20210321_074203%2002.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/Vanessa_Phan2.jpg</image:loc>
+	<image:title>1623124040354</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://anatics.io/contact/</loc>
+	<lastmod>2021-06-08</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/placeholder-image.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://anatics.io/professional-services/</loc>
+	<lastmod>2021-06-08</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/CleanShot%202021-06-08%20at%2015.44.30.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252015.44.30</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/CleanShot%202021-06-08%20at%2016.13.58.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252016.13.58</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://anatics.io/partners/</loc>
+	<lastmod>2021-06-08</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/holistics_logo.png</image:loc>
+	<image:title>holistics_logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/CleanShot%202021-06-08%20at%2014.58.00.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252014.58.00</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://anatics.io/resources-for-downloads/</loc>
+	<lastmod>2021-06-08</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/placeholder-image.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/holistics_logo.png</image:loc>
+	<image:title>Holistics%20Documentation</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/placeholder-image-sq.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
