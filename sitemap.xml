@@ -182,7 +182,7 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://anatics.io/img/placeholder-image.png</image:loc>
+	<image:loc>https://anatics.io/img/holistics-analytics-book.png</image:loc>
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
@@ -192,6 +192,10 @@
 	<image:image>
 	<image:loc>https://anatics.io/img/placeholder-image-sq.png</image:loc>
 	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/placeholder-image.png</image:loc>
+	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://anatics.io/img/</image:loc>
