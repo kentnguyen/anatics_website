@@ -104,10 +104,6 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://anatics.io/img/placeholder-image.png</image:loc>
-	<image:title>placeholder%20image</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>https://anatics.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
@@ -145,6 +141,14 @@
 	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://anatics.io/img/holistics_logo.png</image:loc>
+	<image:title>holistics_logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/block71_logo.jpeg</image:loc>
+	<image:title>holistics_logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/kat_media_logo.png</image:loc>
 	<image:title>holistics_logo</image:title>
 	</image:image>
 	<image:image>
