@@ -152,6 +152,14 @@
 	<image:title>CleanShot%25202021%2006-08%2520at%252014.58.00</image:title>
 	</image:image>
 	<image:image>
+	<image:loc>https://anatics.io/img/gu-logo.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252014.58.00</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/Official_Logo-01.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252014.58.00</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://anatics.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
@@ -176,6 +184,24 @@
 	<image:image>
 	<image:loc>https://anatics.io/img/placeholder-image-sq.png</image:loc>
 	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://anatics.io/dashboards-concept/</loc>
+	<lastmod>2021-06-09</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://anatics.io/img/CleanShot%202021-06-08%20at%2016.28.23.png</image:loc>
+	<image:title>CleanShot%25202021%2006-08%2520at%252016.28.23</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://anatics.io/img/</image:loc>
