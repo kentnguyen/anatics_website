@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://anatics.io</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -34,17 +34,17 @@
 	<video:title>pexels-rodnae-productions-7947397</video:title>
 	</video:video>
 	<image:image>
-	<image:loc>https://anatics.io/img/</image:loc>
+	<image:loc>https://anatics.io/img/Logo_Anatics_FA_SQUARE_32.png</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://anatics.io/img/IMG_20210528_110651.jpeg</image:loc>
+	<image:loc>https://anatics.io/img/diego-ph-fIq0tET6llw-unsplash.jpg</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
 	<loc>https://anatics.io/anatics-process-and-methodology/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -70,7 +70,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/about-anatics-and-team/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -100,7 +100,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/contact/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -114,7 +114,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/professional-services/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -136,7 +136,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/partners/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -178,7 +178,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/resources-for-downloads/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -208,7 +208,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/dashboards-concept/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -226,7 +226,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/press-and-media/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -260,7 +260,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/career-and-hiring/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -294,7 +294,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/blog/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -308,7 +308,7 @@
 </url>
 <url>
 	<loc>https://anatics.io/projects-and-clients/</loc>
-	<lastmod>2021-06-10</lastmod>
+	<lastmod>2021-06-21</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
