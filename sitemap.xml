@@ -212,6 +212,30 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report1.jpg</image:loc>
+	<image:title>anatics_sample_report1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report4.jpg</image:loc>
+	<image:title>anatics_sample_report2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report3.jpg</image:loc>
+	<image:title>anatics_sample_report2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report2.jpg</image:loc>
+	<image:title>anatics_sample_report2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report5.jpg</image:loc>
+	<image:title>anatics_sample_report1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report6.jpg</image:loc>
+	<image:title>anatics_sample_report2</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://anatics.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
@@ -334,6 +358,18 @@
 	<image:image>
 	<image:loc>https://anatics.io/img/client_gsma.png</image:loc>
 	<image:title>client_gsma</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report1.jpg</image:loc>
+	<image:title>anatics_sample_report1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report5.jpg</image:loc>
+	<image:title>anatics_sample_report5</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://anatics.io/img/anatics_sample_report6.jpg</image:loc>
+	<image:title>anatics_sample_report6</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://anatics.io/img/</image:loc>
